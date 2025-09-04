@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "correct_answer": "HyperText Markup Language",
+    "incorrect_answers": [
+      "HighText Machine Language",
+      "Hyperlinks and Text Markup Language",
+      "Home Tool Markup Language"
+    ]
+  },
+  {
+    "question": "Which language is primarily used for styling web pages?",
+    "correct_answer": "CSS",
+    "incorrect_answers": [
+      "HTML",
+      "Python",
+      "Java"
+    ]
+  },
+  {
+    "question": "Which company developed the React library?",
+    "correct_answer": "Facebook",
+    "incorrect_answers": [
+      "Google",
+      "Microsoft",
+      "Apple"
+    ]
+  },
+  {
+    "question": "What does JSON stand for?",
+    "correct_answer": "JavaScript Object Notation",
+    "incorrect_answers": [
+      "Java Source Open Network",
+      "JavaScript Open Notation",
+      "Joint Style Object Notation"
+    ]
+  },
+  {
+    "question": "Which HTTP status code means 'Not Found'?",
+    "correct_answer": "404",
+    "incorrect_answers": [
+      "200",
+      "500",
+      "301"
+    ]
+  },
+  {
+    "question": "Which method is used to add an item to the end of an array in JavaScript?",
+    "correct_answer": "push()",
+    "incorrect_answers": [
+      "unshift()",
+      "pop()",
+      "shift()"
+    ]
+  },
+  {
+    "question": "Which HTML element defines the title of a document?",
+    "correct_answer": "<title>",
+    "incorrect_answers": [
+      "<head>",
+      "<meta>",
+      "<h1>"
+    ]
+  },
+  {
+    "question": "Which keyword declares a variable block-scoped in modern JavaScript?",
+    "correct_answer": "let",
+    "incorrect_answers": [
+      "var",
+      "consts",
+      "set"
+    ]
+  },
+  {
+    "question": "Which of the following is NOT a programming paradigm?",
+    "correct_answer": "Spreadsheet",
+    "incorrect_answers": [
+      "Functional",
+      "Object-oriented",
+      "Procedural"
+    ]
+  },
+  {
+    "question": "Which CSS property controls layout in rows and columns?",
+    "correct_answer": "grid",
+    "incorrect_answers": [
+      "float",
+      "position",
+      "display:block"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+/* Tailwind base + components + utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Small custom overrides for focus rings and reduced motion */
+:root {
+  --accent: theme('colors.indigo.600', '#4f46e5');
+}
+
+:focus {
+  outline: none;
+}
+
+button:focus {
+  box-shadow: 0 0 0 3px rgba(99,102,241,0.2);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
